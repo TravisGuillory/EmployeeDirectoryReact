@@ -18,7 +18,7 @@ This application provides an company employee or manager be able to view non-sen
 
 
 <iframe src="assets/empoyee-directory-react.gif" width="640" height="480"></iframe>
-![Alt Text](https://github.com/TravisGuillory/EmployeeDirectoryReact/blob/master/assets/empoyee-directory-react.gif?raw=true)
+![Alt Text](https://github.com/TravisGuillory/EmployeeDirectoryReact/blob/master/assets/empoyee-directory-react.gif)
 This project was bootstrapped with [Create React App](assets/employee-directory-react.gif).
 
 
