@@ -12,7 +12,7 @@ Link to the deployed application: https://secure-springs-01801.herokuapp.com/
 
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzGxyvwAPXQwTMado_3FgMdevhrw_UAzD2bYIH2h891TbqTXPO&usqp=CAU" width=50px height=auto> React Bootstrap
 
-* <img src="https://nodejs.org/static/images/logo.svg" width=50px height=auto>
+* <img src="https://nodejs.org/static/images/logo.svg" width=50px height=auto> Node.js
 
 * Axios node.js library for http API promise requests. 
 
