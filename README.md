@@ -19,6 +19,8 @@ This application provides an company employee or manager be able to view non-sen
 
 
 
+
+
 This project was bootstrapped with [Create React App](assets/employee-directory-react.gif).
 
 
