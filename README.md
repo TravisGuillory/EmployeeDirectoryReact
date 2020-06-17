@@ -15,10 +15,10 @@ This application provides an company employee or manager be able to view non-sen
 * Axios node.js library for http API promise requests. 
 
 
+![Alt Text](https://github.com/TravisGuillory/EmployeeDirectoryReact/raw/master/assets/empoyee-directory-react.gif)
 
 
-<iframe src="assets/empoyee-directory-react.gif" width="640" height="480"></iframe>
-![Alt Text](https://github.com/TravisGuillory/EmployeeDirectoryReact/blob/master/assets/empoyee-directory-react.gif)
+
 This project was bootstrapped with [Create React App](assets/employee-directory-react.gif).
 
 
