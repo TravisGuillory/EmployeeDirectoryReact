@@ -12,6 +12,8 @@ Link to the deployed application: https://secure-springs-01801.herokuapp.com/
 
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzGxyvwAPXQwTMado_3FgMdevhrw_UAzD2bYIH2h891TbqTXPO&usqp=CAU" width=50px height=auto> React Bootstrap
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273749%2Fnode-js&psig=AOvVaw2pW0sQihNulIdJgjrku8xU&ust=1592520999732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCi65b5ieoCFQAAAAAdAAAAABAD" width=50px height=auto>
+
 * Axios node.js library for http API promise requests. 
 
 
